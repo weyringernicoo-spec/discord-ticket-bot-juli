@@ -1,12 +1,13 @@
 {
-  "name": "discord-ticket-bot",
+  "name": "discord-ticket-bot-juli",
   "version": "1.0.0",
+  "description": "Discord ticket bot",
   "main": "index.js",
-  "engines": {
-    "node": "18.x"
-  },
   "scripts": {
     "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
   },
   "dependencies": {
     "discord.js": "^14.14.1"
